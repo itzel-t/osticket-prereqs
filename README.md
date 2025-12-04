@@ -30,7 +30,7 @@ A guide to installing a help desk ticketing system named osTicket.<br/>
 <br />
 </p>
 <p>
-	<br /><img width="1440" height="661" alt="Screen Shot 2025-09-11 at 2 08 56 PM" src="https://github.com/user-attachments/assets/479c5d5d-9ef1-455f-8125-984e2bb3a1ee" />
+	<img width="1440" height="661" alt="Screen Shot 2025-09-11 at 2 08 56 PM" src="https://github.com/user-attachments/assets/479c5d5d-9ef1-455f-8125-984e2bb3a1ee" />
 </p>
 <p>
 <h3 align="center"> Now, create a Windows 10 Virtual Machine (VM). For username and password, they can be anything, but try to remember that this information will be used to access our main computer remotely. For the image, we will be using Windows 10, and for the size, it has to be at least 8 gigabytes. Lastly, when creating the Virtual Machine (VM) in Azure, remember to stay with the resource Group name you create to be organized.</h3>
@@ -59,7 +59,7 @@ A guide to installing a help desk ticketing system named osTicket.<br/>
 </p>
 <br />
 <br />
-<h3 align="center">Click to find the "Internet Information Services" and expand it to be able to then expand the "World Wide Web" tab. Afterward, expand the Application Developer tab to be able to click the "CGI" button and press ok. You will need CGI to download the PHP Manager.</h3>
+<h3 align="center">Click to find "Internet Information Services" and expand it to be able to expand the "World Wide Web" tab. Afterward, expand the Application Developer tab to be able to click the "CGI" button and press ok. You will need CGI to download the PHP Manager.</h3>
 <br />
 <p>
   <img width="1440" height="900" alt="Screen Shot 2025-09-29 at 1 38 50 PM" src="https://github.com/user-attachments/assets/699cffbf-4fb5-4f47-8c72-8cdf2ceee64e" />
@@ -70,7 +70,7 @@ A guide to installing a help desk ticketing system named osTicket.<br/>
 <p>
 <h3 align="center">Download the PHP manager file, and agree with all the terms. We've now downloaded the PHP manager into our operating system.</h3>
 <p>
- <img width="1440" height="900" alt="Screen Shot 2025-09-29 at 1 41 17 PM" src="https://github.com/user-attachments/assets/4cab26dd-f596-4107-bcc6-38268fdf673d" />
+	 <img width="1440" height="900" alt="Screen Shot 2025-09-29 at 1 41 17 PM" src="https://github.com/user-attachments/assets/4cab26dd-f596-4107-bcc6-38268fdf673d" />
 </p>
 <br/>
 <h3 align="center">Install Rewrite Module</h3>
