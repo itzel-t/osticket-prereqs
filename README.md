@@ -30,7 +30,7 @@ A guide to installing a help desk ticketing system named osTicket.<br/>
 <br />
 </p>
 <p>
-	<img width="1440" height="661" alt="Screen Shot 2025-09-11 at 2 08 56 PM" src="https://github.com/user-attachments/assets/479c5d5d-9ef1-455f-8125-984e2bb3a1ee" />
+	<img width="1440" height="661"src="https://github.com/user-attachments/assets/479c5d5d-9ef1-455f-8125-984e2bb3a1ee" />
 </p>
 <p>
 <h3 align="center"> Now, create a Windows 10 Virtual Machine (VM). For username and password, they can be anything, but try to remember that this information will be used to access our main computer remotely. For the image, we will be using Windows 10, and for the size, it has to be at least 8 gigabytes. Lastly, when creating the Virtual Machine (VM) in Azure, remember to stay with the resource Group name you create to be organized.</h3>
